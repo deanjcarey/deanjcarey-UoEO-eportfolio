@@ -1,40 +1,27 @@
 # Professional Bio
 
-### Current Firm/Role
+## Current Role
 
-Associate Vice President / Connected Vehicle Program Manager and National Practice Leader, Cybersecurity
+### Data and business intelligence specialist with over 20 years’ experience in college and university management
 
-Providing technical expertise ion program management of Federal research and pilot deployments of connected vehicle technology. Lead author of winning grant application which procured $21 million in funding to design, deploy, test and operate a connected vehicle pilot in Tampa, FL. This project comprises equipping 48 signalized intersections, 1000 privately owned vehicles, 10 transit buses and 9 electric street car trollies with dedicated short range communications (DSRC) in the licensed 5.9 GHz spectrum, to enable vehicle to vehicle (V2V), vehicle to infrastructure (V2I), and vehicle to everything else (V2X) applications. These applications fall in categories of safety, mobility and environmental. Quick examples are:
+I had a humble start as my first job in a college - shelving books in a college library but it did help me learn the alphabet so that was a win.
 
-*   Safety application: Emergency Electronic Brake Light (EEBL) warning. This application is V2V based and generates a warning alert to equipped motorists when any other equipped vehicle in front of them, going in the same direction and in the same or immediately adjacent lane applies hard braking. This warning appears in the rear view mirror mounted on the windscreen and allows the equipped motorist to avoid the accordion type collisions typically resulting from such hard braking events.
-*   Mobility application: Intelligent Signal (I-Sig). This V2I based application broadcasts Signal Phase and Timing (SPaT) information to vehicles and vehicles broadcast position, heading, velocity and other relevant data to the roadside equipment which interfaces with the traffic signal controller. Collectively this information is used to adjust (extend) green time to facilitate flushing of building congestion. When applied in sync along a corridor, mobility (volume and throughput) is greatly improved. This application also has an environmental benefit of reducing green- house gasses due to less wait time at intersections as it moves vehicles in efficiently formed platoons.
+I later found myself in a position to demonstrate my IT skills - when asked by a student to help recover work they had lost on a PC, the look of joy on their face when I recovered it set in motion a career in problem solving.
 
-The major elements of the system is the basic safety message (BSM) which comprises data on vehicle position, heading, speed, path history, yaw, steering controls, and sensors for braking, turn indicators, lights, windscreen wipers, etc. There is also a very stringent requirement for trust that the data received is from a trusted source. This is provided by a security credential management system (SCMS) which uses certificates to establish identity, encryption, message signing etc. This also includes the ability to revoke certificate from devices observed to be misbehaving or suspected of being compromised. 
+Eventually I went on to bigger and diverse roles in a number of organisations, expanding my experience. For example, as a Director of Information & Learner Services, this was what my day could look like:
+
+➢ Meet up with a head of a faculty to discuss new programmes they wish to offer
+➢ Interview a student for a place in college 
+➢ Catchup with a third-party developer to review the development of a bespoke student record system
+➢ Explore how I could emphasise the diverse backgrounds of the college community
+➢ Develop a SQL script for a marketing report
+
+The above was one of my many diverse roles. While data and information services is my main strength, I love to broaden my experience and help wherever I can. Those of you in the education world, particularly in the public sector, know how limited resources are so being able to roll up my sleeves and getting stuck in is what I bring.
+
+This journey has led to looking for ways to utilise data and help colleagues develop their business intelligence for marketing, student services, curriculum development and other senior leadership challenges. Reading the ILR and HESA specifications is just what I do in my spare time for fun.
+
+Following many years in information and leadership roles within education, I setup my own business and have worked with many organisations, helping them with their data management, compliance, funding, statutory returns, audit, the list goes on.
 
 Read more about this and other CV Projects at:
 
-*   [www.theacvpilot.com](www.theacvpilot.com)
-*   https://www.its.dot.gov/pilots/
-
-### Thought Leadership
-
-I also provide international thought leadership on cybersecurity for transportation via presentations, lectures, seminars and membership in professional standards bodies. Currently active with:
-
-*   National Academies of Sciences, Transportation Research Board, Standing Committee on Protection of Critical Infrastructure, Joint sub-committee on Cybersecurity
-*   National Academies of Sciences, Transportation Research Board, Standing Committee on National Defense Transportation, Chair of cybersecurity working group
-*   IEEE: Multiple technical working groups on wireless security, secure software bootstrapping and IoT security working group (Co-chair)
-*   Society of Automotive Engineers (SAE), technical committee updating standard J2945/5 (security permissions schema for connected vehicle applications)
-*   Intelligent Transportation Society of America, Cybersecurity Committee
-*   Institute of Transportation Engineers, Cybersecurity Committee and subject matter review for new infrastructure elements of connected vehicle equipment standards
-*   OmniAir Consortium (industry council providing device testing and  certification for connected vehicle products.
-*   Lead consultant for data security, privacy and compliance to multiple State Departments of Transportation in the U.S.
-*   University of South Florida, MUMA School of Business, Cybersecurity for Executives, curriculum advisory committee.
-*   Cyber Future Foundation (Non-Profit think tank and advocacy for global cyber-equality), Honor Roll inductee, class of 2018
-
-### Other Career Highlights
-
-*   11 year's of service in U.S. Army as a cryptographic specialist, including support of Dessert Storm
-*   7 year's technical management consulting for Governmental agencies, and telecommunications carriers.
-*   20+ year's as project manager for large scale projects in intelligent transportation Systems (ITS).
-    *   Design, deployment, integration and testing of secure networks for transportation management centers.
-    *   Systems comprising CCTV, Microwave Vehicle Detection Systems (MVDS), Roadway Weather Information Systems (RWIS), Highway Advisory Radio Systems (HAR), Electronic Tolling Systems, Reversible Lanes (REL) Access Control Systems (ACS) and Regional Traffic Management Centers (RTMC)s
+www.linkedin.com/in/the-dean-of-data
