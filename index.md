@@ -10,7 +10,7 @@
 
 ### [Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/Professional.md)
 
-(https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/tree/master/Professional.md)
+[Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/tree/master/Professional.md)
 
 <!-- ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) --> 
 
