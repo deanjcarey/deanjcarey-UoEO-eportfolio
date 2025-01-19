@@ -2,6 +2,12 @@
 
 <!-- ![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png) -->
 
+(https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg)
+
+![alt text](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg?raw=true)
+
+![screenshot](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg)
+
 # Dean Carey       
 
 ## PG Cert. Data Science Cohort Jan 2025
