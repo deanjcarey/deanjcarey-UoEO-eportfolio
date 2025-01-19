@@ -1,14 +1,6 @@
 ## E-Portfolio of   
 
-<!-- ![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png) -->
-
-(https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg)
-
-![alt text](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg?raw=true)
-
-![screenshot](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/images/profile-pic.jpeg)
-
-# Dean Carey       
+<!-- ![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png) -->   
 
 ## PG Cert. Data Science Cohort Jan 2025
 
@@ -16,12 +8,12 @@
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
+### [Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/Professional.md)
 
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+<!-- ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) --> 
 
 
-### University of Essex Learning Experience
+### University of Essex Online
 
 *   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
 *   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
