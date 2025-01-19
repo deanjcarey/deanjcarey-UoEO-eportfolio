@@ -13,12 +13,10 @@
 
 ### University of Essex Online
 
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+*   [Induction Module](http://example.com/)
+*   [Module 1 **The Data Professional**](http://example.com/)
+*   [Module 2 **Numerical Analysis**](http://example.com/)
+*   [Module 3 **Deciphering Big Data**](http://example.com/)
 
 ---
 
