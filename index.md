@@ -8,12 +8,8 @@
 
 ### About Me
 
+<!--### [Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/Professional.md) --> 
 ### [Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/Professional.md)
-
-[Professional](https://github.com/deanjcarey/deanjcarey-UoEO-eportfolio/tree/master/Professional.md)
-
-<!-- ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) --> 
-
 
 ### University of Essex Online
 
