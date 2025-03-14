@@ -4,23 +4,15 @@
 
 ### Data and business intelligence specialist with over 20 years’ experience in college and university management
 
-I had a humble start as my first job in a college - shelving books in a college library but it did help me learn the alphabet so that was a win.
+I began my career in the public sector with a humble start, shelving books in a college library. This experience, though modest, helped me lay the foundation for my future endeavours.
 
-I later found myself in a position to demonstrate my IT skills - when asked by a student to help recover work they had lost on a PC, the look of joy on their face when I recovered it set in motion a career in problem solving.
+Over the years, I have taken on diverse roles in various organisations, expanding my experience from reports developer to director roles.
 
-Eventually I went on to bigger and diverse roles in a number of organisations, expanding my experience. For example, as a Director of Information & Learner Services, this was what my day could look like:
+While data and information services are my main strengths, I am always eager to broaden my experience and assist wherever I can. In the education sector, particularly the public sector, resources are often limited. My ability to roll up my sleeves and get involved is one of my key attributes.
 
-➢ Meet up with a head of a faculty to discuss new programmes they wish to offer
-➢ Interview a student for a place in college 
-➢ Catchup with a third-party developer to review the development of a bespoke student record system
-➢ Explore how I could emphasise the diverse backgrounds of the college community
-➢ Develop a SQL script for a marketing report
+My journey has led me to explore ways to utilise data and help colleagues develop their business intelligence for marketing, student services, curriculum development, and other senior leadership challenges - reading the ILR and HESA specifications is something I just do in my spare time for fun.
 
-The above was one of my many diverse roles. While data and information services is my main strength, I love to broaden my experience and help wherever I can. Those of you in the education world, particularly in the public sector, know how limited resources are so being able to roll up my sleeves and getting stuck in is what I bring.
-
-This journey has led to looking for ways to utilise data and help colleagues develop their business intelligence for marketing, student services, curriculum development and other senior leadership challenges. Reading the ILR and HESA specifications is just what I do in my spare time for fun.
-
-Following many years in information and leadership roles within education, I setup my own business and have worked with many organisations, helping them with their data management, compliance, funding, statutory returns, audit, the list goes on.
+After many years in information and leadership roles within education, I established my own business. I have since worked with many organisations, assisting them with data management, compliance, funding, statutory returns, audits, and much more.
 
 Read more about this and other CV Projects at:
 
