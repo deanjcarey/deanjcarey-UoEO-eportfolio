@@ -13,7 +13,7 @@
 ### University of Essex Online
 
 *   [Induction Module](http://example.com/)
-*   [Module 1 **The Data Professional**](http://example.com/) (/UoEO_Mod_1_Assignment_2.ipynb)
+*   [Module 1 **The Data Professional**](/UoEO_Mod_1_Assignment_2.ipynb)
 *   [Module 2 **Numerical Analysis**](http://example.com/)
 *   [Module 3 **Deciphering Big Data**](http://example.com/)
 
