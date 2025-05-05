@@ -12,9 +12,8 @@
 
 ### University of Essex Online
 
-*   [Induction Module](http://example.com/)
-*   [Module 1 **The Data Professional**](/UoEO_Mod_1_Assignment_2.ipynb)
-*   [Module 2 **Numerical Analysis**](http://example.com/)
+*   [Module 1 **The Data Professional - Python based data analysis assignment**](/UoEO_Mod_1_Assignment_2.ipynb)
+*   [Module 2 **Numerical Analysis - Units 1-5**](/Numerical Analysis Units 1-5.md)
 *   [Module 3 **Deciphering Big Data**](http://example.com/)
 
 ---
