@@ -3,8 +3,8 @@
 ## Unit 1
 Outputs for data activities 1.1 and 1.2 can be seen in the two images linked below.
 
-- [Activity 1.1 Output](./path/to/your/image1.png)
-- [Activity 1.2 Output](./path/to/your/image2.png)
+- [Activity 1.1 Output](./images/Screenshot 2025-05-05 164833.png)
+- [Activity 1.2 Output](./images/Screenshot 2025-05-05 164940.png)
 
 ## Unit 2
 *(Add content here for Unit 2…)*
