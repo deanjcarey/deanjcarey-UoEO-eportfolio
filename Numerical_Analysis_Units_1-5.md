@@ -7,7 +7,7 @@ Outputs for data activities 1.1 and 1.2 can be seen in the two images linked bel
 - [Activity 1.2 Output](/images/Data_Activity_1.2b.png)
 
 ## Unit 2
-*(Add content here for Unit 2…)*
+- [Data Activity 2 Output](/images/Data_Activity_2.png)
 
 ## Unit 3
 *(Add content here for Unit 3…)*
