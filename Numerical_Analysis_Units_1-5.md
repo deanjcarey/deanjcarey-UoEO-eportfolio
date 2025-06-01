@@ -13,7 +13,9 @@ Outputs for data activities 1.1 and 1.2 can be seen in the two images linked bel
 - [Data Activity 3 Output](/images/Data_Activity_3.png)
 
 ## Unit 4
-- [Data Activity 4 Output](/pdf/Activity_4_Probability.txt)
+- [Activity 4 Output](/pdf/Activity_4_Probability.txt)
 
 ## Unit 5
-*(Add content here for Unit 5…)*
+- [Data Activity 4.1 Output](images/DataActivity4.1.png)
+- [Data Activity 4.2 Output](images/DataActivity4.2.png)
+
