@@ -36,9 +36,27 @@ Event P = the outcome is a composite number = {4,6,8,9,10} = 5/10 = 0.5
 Event M = the number is a multiple of 3 = {3,6,9} = 3/10 = 0.3
 
 3.3 The table describes the distribution of a random sample S of 100 individuals, organized by gender and whether they
-like tea or coffee. Let's denote the events M = the subject is a man, W = the subject is a woman, T = the subject likes tea, and C = the subject likes coffee. Compute the following probabilities:
+like tea or coffee.
 
-P(M) = 
+M=48, W=52, T=38, C=62
+
+Let's denote the events M = the subject is a man, W = the subject is a woman, T = the subject likes tea, and C = the subject likes coffee. Compute the following probabilities:
+
+P(M) = 0.48
+P(W) = 0.52
+P(T) = 0.38
+P(C) = 0.62
+P(M AND T) = 0.22
+P(W AND C) = 0.36
+P(M OR W) = 1
+P(M OR T) = 0.48 + 0.38 - 0.22 = 0.64
+P(W OR C) = 0.52 + 0.62 - 0.36 = 0.78
+P(M') = 1-0.48 = 0.52
+P(T|M) = 0.22 / 0.48 = 0.4583
+P(W|C) = 0.36 / 0.62 = 0.5806
+P(C|W) = 0.36 / 0.52 = 0.6923
+
+
 
 
 
