@@ -6,9 +6,9 @@ Outputs for activities can be seen in the links below.
 - [Seminar 6 Activity](/pdf/Unit_6_Seminar_Activity.pdf)
 
 ## Unit 7
-- [Data Activity 5](/pdf/Data_Activity_5.R)
-- [Data Activity 5](/images/DataActivity5.png)
-- [Data Activity 5a](/images/DataActivity5_hypothesis.png)
+- [Data Activity 5 - R code](/pdf/Data_Activity_5.R)
+- [Data Activity 5 - boxplot](/images/DataActivity5.png)
+- [Data Activity 5 - Hypothesis](/images/DataActivity5_hypothesis.png)
 
 ### Reflection on Data Activity 5
 
