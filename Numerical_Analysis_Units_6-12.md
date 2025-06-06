@@ -3,7 +3,7 @@
 Outputs for activities can be seen in the links below.
 
 ## Unit 6
-- [Activity 1.1 Output](/images/Data_Activity_1.2a.png)
+- [Seminar 6 Activity](/pdf/Unit_6_Seminar_Activity.pdf)
 
 ## Unit 7
 - 
