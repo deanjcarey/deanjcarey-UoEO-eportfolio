@@ -21,7 +21,8 @@ On the hypothesis part of the activity, firstly the resources Sabeen provided e.
 The test outcome was: p = 0.2296 which is greater than our 0.05 CI, so we fail to reject Ho - therefore we don’t have strong enough evidence to suggest ulcer patients and non‐ulcer patients have different average systolic blood pressures.
 
 ## Unit 8
-- 
+-
+- [Data Activity 6.2 - histogram](/images/DataActivity6.2.png)
 
 ## Unit 9
 - 
