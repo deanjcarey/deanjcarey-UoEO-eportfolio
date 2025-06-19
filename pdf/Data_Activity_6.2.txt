@@ -1,0 +1,17 @@
+Age:
+
+Mean: 26.51
+Median: 27
+Mode: 26
+
+
+Median Diastolic Blood Pressure (dbp) by diabetic status:
+
+Diabetic (diabetes = 1): 83.0 mm Hg
+Non-diabetic (diabetes = 2): 82.0 mm Hg
+
+Our diabetic and non-diabetic cases are two separate, unrelated groups therefore the Mann–Whitney test is specifically designed for independent samples such as these two groups.
+
+Mann–Whitney U test: U = 3804.50, p = 0.7999
+
+The medians differ by only 1 mm Hg and the p-value is large, indicating no statistically significant difference in BP between diabetic and non-diabetic groups.
