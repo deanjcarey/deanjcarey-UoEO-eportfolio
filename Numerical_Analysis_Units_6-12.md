@@ -21,10 +21,10 @@ On the hypothesis part of the activity, firstly the resources Sabeen provided e.
 The test outcome was: p = 0.2296 which is greater than our 0.05 CI, so we fail to reject Ho - therefore we don’t have strong enough evidence to suggest ulcer patients and non‐ulcer patients have different average systolic blood pressures.
 
 ## Unit 8
-- [Data Activity 6 - Answers](/pdf/DataActivity6.2.txt)
+- [Data Activity 6 - Answers](/pdf/Data_Activity_6.2.txt)
 - [Data Activity 6.2a - histogram](/images/DataActivity6.2a.png)
 - [Data Activity 6.2b - Mann-Whitney](/images/DataActivity6.2b.png)
-- [Data Activity 6.2 - R code](/pdf/DataActivity6.r)
+- [Data Activity 6.2 - R code](/pdf/Data_Activity_6.r)
 
 I found the Powers aspect of this unit very interesting, particularly where you have to adapt the inputs/criteria to gain a more robust outcome or be confident of the true effect, especially in STEM fields. For example where you may wish to reduce the confidence interval below the "typical" 95% e.g. 0.01 (99%) to gain more confidence but this will likely reduce the power of your study. To increase the power, you may need to increase the sample size or increase the desired effect size. I did enjoy studying this aspect of stats.
 
