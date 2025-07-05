@@ -31,7 +31,7 @@ I found the Powers aspect of this unit very interesting, particularly where you 
 There is a great deal to examine within statistics and more broadly in the numerical analysis module, in such a short window i.e. 12 weeks. I do have concerns that I will miss or not fully understand some of these key topics but it is a fascinating component of Data Science that has sparked my curiousity to learn more.
 
 ## Unit 9
-- [Data Activity 7 - crosstab putput](/images/DataActivity7.png)
+- [Data Activity 7 - crosstab output](/images/DataActivity7.png)
 - [Data Activity 7 - R code](/pdf/Data_Activity_7.R)
 
 ### Analysis from the activity:
