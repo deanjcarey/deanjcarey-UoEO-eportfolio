@@ -31,7 +31,17 @@ I found the Powers aspect of this unit very interesting, particularly where you 
 There is a great deal to examine within statistics and more broadly in the numerical analysis module, in such a short window i.e. 12 weeks. I do have concerns that I will miss or not fully understand some of these key topics but it is a fascinating component of Data Science that has sparked my curiousity to learn more.
 
 ## Unit 9
-- 
+- [Data Activity 7 - crosstab putput](/images/DataActivity7.png)
+- [Data Activity 7 - R code](/pdf/Data_Activity_7.R)
+
+### Analysis from the activity:
+- The most likely age group to be victims of crime was age group 2 (25–34 years).
+- 22.42% of people in this group said they experienced crime in the past 12 months.
+- The least likely age group to be victims was age group 7 (75+ years).
+- Only 4.84% of people in this group reported being victims.
+- Age group 6 (65–74 years) also had a low percentage: 8.75%
+- Data suggests that younger and middle-aged adults were more likely to report being victims of crime, while older adults were less likely.
+
 
 ## Unit 10
 - 
