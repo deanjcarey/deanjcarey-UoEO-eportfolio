@@ -50,7 +50,7 @@ There is a great deal to examine within statistics and more broadly in the numer
 - 
 
 ## Unit 12
-- 
+- [Assessment 1 - R code](/pdf/HSE_Assignmentv2.R)
 
 
 ## Reflection on Units 6 to 12:
