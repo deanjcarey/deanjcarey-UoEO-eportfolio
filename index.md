@@ -21,7 +21,7 @@
 *   [**Numerical Analysis - Units 6-12**](/Numerical_Analysis_Units_6-12.md)
 
 ### Module 3
-*   [**Deciphering Big Data - Units 1-5**](/Numerical_Analysis_Units_1-5.md)
+*   [**Deciphering Big Data - Units 1-5**](/Deciphering_Big_Data_Units_1-5.md)
 
 ---
 
