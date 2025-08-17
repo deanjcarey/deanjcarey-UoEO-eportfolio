@@ -14,6 +14,7 @@ Feedback notes - Unit 1 lecturecast may need a review - in the The Four V's of B
 This unit provided a strong theoretical foundation in how different data types - structured, quasi-structured, semi-structured and unstructured - affect storage choices, parsing logic and pipeline design. The seminar recording and required readings clarified why format-awareness matters for data veracity and value and prepared me to recognise when tools such as NoSQL, Hadoop and Spark are appropriate (Sardar and Pandey, 2024). Although I did not complete hands-on Python or API tasks in this unit, the material gave me the conceptual framework I can use when I carry out parsing and integration exercises in future activities. Overall I feel better equipped to plan data-movement workflows and choose appropriate platforms when I move from theory to practice.
 
 **References**
+
 Sardar T H and Pandey B K (2024) Big Data Computing - Chapter 8. CRC Press.
 
 ## Unit 3
