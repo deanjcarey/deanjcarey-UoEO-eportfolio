@@ -1,9 +1,10 @@
-# Big Data, Data Types and Data Formats Units 1-5
+# Deciphering Big Data - Big Data, Data Types and Data Formats Units 1-5
 
-Outputs for activities can be seen in the links below.
+Reflections and any outputs/artifacts for activities can be seen in the unit sections below.
 
-## Unit 1
-- [Activity 1.1 Output](/images/M3_Data_Activity_1.png)
+## Unit 1 - Introduction to Big Data Technologies and Data Management
+
+This unit gave me a clear, practical introduction to big-data features (the 4Vs), common data formats and the real-world problems that make cleaning and managing large datasets difficult. The lecturecast and set readings helped me see where data-type issues and complex formats create bottlenecks and why choosing the right tools and security controls matters when designing a data management system. I watched the seminar recording (I missed the live session) and used the Collaborative Discussion to think through IoT data-collection risks and opportunities — low peer participation limited debate but my post helped me consolidate key risks and mitigation ideas. Overall, I feel more confident spotting data quality issues and understanding the basic skills and security requirements needed to build a reliable data pipeline.
 
 
 ## Unit 2
