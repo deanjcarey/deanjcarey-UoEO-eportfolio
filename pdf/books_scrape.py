@@ -1,5 +1,6 @@
 # books_scrape.py - scraper code for books.toscrape.com (website designed for scraping practice)
 # Purpose - course practice - University of Essex Online
+# Dean Carey - August 2025
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,7 +18,7 @@ OUT_DIR = Path('books_output')
 OUT_DIR.mkdir(exist_ok=True)
 JSON_OUT = OUT_DIR / 'books_list.json'
 DELAY_SECONDS = 0.5     # small polite pause
-MAX_PAGES = 2           # how many listing pages to scrape - set to 1 for just the first page
+MAX_PAGES = 2           # how many listing pages to scrape
 
 # simple robots.txt check
 def allowed_by_robots(url, user_agent=HEADERS['User-Agent']):
@@ -114,3 +115,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
