@@ -41,10 +41,9 @@ def parse_listing_page(html, base_url):
     items = []
     # each book in grid
     for el in soup.select('article.product_pod'):
-        # title from image alt or anchor title
         a = el.select_one('h3 a')
         title = a['title'].strip() if a and a.has_attr('title') else a.get_text(strip=True) if a else ''
-        # relative link to product page
+        # link to product page
         rel_link = a['href'] if a and a.has_attr('href') else ''
         product_link = urljoin(base_url, rel_link)
         # price
@@ -115,4 +114,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
