@@ -26,6 +26,7 @@ This unit taught me how to find, evaluate and store data from a range of sources
 
 ## Unit 4
 
+- [Project Team Meeting Notes August 19th 2025](/images/Project_Meeting_Notes_Aug_19.png)
 
 ## Unit 5
 
