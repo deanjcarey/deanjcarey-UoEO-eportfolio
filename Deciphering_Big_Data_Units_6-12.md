@@ -18,7 +18,8 @@ Note: Lecturecast lesson 7 of 9 has a "Consent of the Class" which appears to be
 
 ## Unit 7 - Constructing Normalised Tables and Database Build
 
-- [Normalisation task](/pdf/normalisation_task.pdf)
+- [Normalisation task summary of steps](/pdf/Normalisation_Task.pdf)
+- [Normalisation data](/pdf/Student_Data_Normalisation_Task.xlsx)
 
 ## Unit 8 - Compliance and Regulatory Framework for Managing Data
 
