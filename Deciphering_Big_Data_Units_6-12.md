@@ -16,12 +16,12 @@ Note: Lecturecast lesson 7 of 9 has a "Consent of the Class" which appears to be
 ## Unit 9 - Database Management Systems (DBMS) and Models
 
 
-## Unit 10
+## Unit 10 - More on APIs (Application Programming Interfaces) for Data Parsing
 
 
-## Unit 11
+## Unit 11 - DBMS Transaction and Recovery
 
 
-## Unit 12
+## Unit 12 - Future of Big Data Analytics
 
 
