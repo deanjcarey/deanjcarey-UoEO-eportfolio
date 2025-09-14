@@ -2,16 +2,18 @@
 
 Reflections and any outputs/artifacts for activities can be seen in the unit sections below.
 
-## Unit 6 - Introduction to Big Data Technologies and Data Management
+## Unit 6 - Database Design and Normalisation
+
+Note: Lecturecast lesson 7 of 9 has a "Consent of the Class" which appears to be from a different topic/subject entirely - have submitted feedback via the link at end of lecturecast.
 - [Sample work](/pdf/abc.pdf)
 
-## Unit 7 - Introduction to Data Types and Formats
+## Unit 7 - Constructing Normalised Tables and Database Build
 
 
-## Unit 8 - Data Collection and Storage
+## Unit 8 - Compliance and Regulatory Framework for Managing Data
 
 
-## Unit 9
+## Unit 9 - Database Management Systems (DBMS) and Models
 
 
 ## Unit 10
