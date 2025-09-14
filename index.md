@@ -22,6 +22,7 @@
 
 ### Module 3
 *   [**Deciphering Big Data - Units 1-5**](/Deciphering_Big_Data_Units_1-5.md)
+*   [**Deciphering Big Data - Units 6-12**](/Deciphering_Big_Data_Units_6-12.md)
 
 ---
 
