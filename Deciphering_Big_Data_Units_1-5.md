@@ -24,7 +24,7 @@ This unit taught me how to find, evaluate and store data from a range of sources
 - [Web scraping activity](/pdf/books_scrape.py)
 - [Web scraping activity - json output](/pdf/books_list.json)
 
-## Unit 4
+## Unit 4 - Data Cleaning and Transformation
 
 This unit explained practical data cleaning and transformation steps and showed how to turn messy survey or CSV files into usable tables. The lecturecast worked through header replacement, type checks, duplicate removal and fuzzy matching and made it clear that cleaning is often repetitive - so scripts and automation are worth doing when the source is stable (Kazil and Jarmul examples were used). The session also covered the data management pipeline and stressed documenting each step so others can reproduce your work. I haven’t yet completed all the formative activities because of time pressures, but I followed the lecture examples and feel confident I can write a small Python script to replace cryptic headers, screen for NA values and log the cleaning steps when I do the exercises.
 
@@ -34,7 +34,7 @@ Kazil J and Jarmul K (2016) Data Wrangling with Python: Tips and Tools to Make Y
 
 - [Project Team Meeting Notes 19th August 2025](/images/Project_Meeting_Notes_Aug_19.png)
 
-## Unit 5
+## Unit 5 - Data Cleaning and Automating Data Collections
 
 Due to holidays and work commitments, I had limited time to delve deeper into this unit. It has enhanced my practical skills in cleaning and automating data collection - with a focus on household survey data and how to prepare it for analysis. The previous unit 4 lecturecast and seminar materials provided details for converting files to CSV, replacing cryptic headers, checking types and removing duplicates. They also walked through planning automated collections so outputs stay consistent and auditable. I reviewed the seminar presentation and had a brief look at the GitHub-linked UNICEF example datasets which made it clear that automation must be tightly scoped - scripts should log their steps and include checks for input and output formats so errors are caught early. I also learned more about storage choices and data models for longer-term use, which helps when deciding whether to store intermediate files as CSV HDF or in a simple database. Overall I feel reasonably confident to write a small automation script that reads raw survey files, applies consistent cleaning rules and writes to a cleaned file.
 
