@@ -18,6 +18,14 @@ Note: Lecturecast lesson 7 of 9 has a "Consent of the Class" which appears to be
 
 ## Unit 7 - Constructing Normalised Tables and Database Build
 
+This unit taught me how to turn a flat file into a reliable relational model by demonstrating 1NF, 2NF and 3NF and by building a working database from the normalised tables. The normalisation work clarified functional dependencies and let me split the dataset into Students, Courses and Enrolments so each non-key attribute sits with the entity it depends on.
+
+I implemented the 3NF schema and loaded the normalised datasets (exported to CSV for SQL import) into a relational database - this sets out the next layer of work: recording the DBMS name and version, hardware specs, data volumes and key DBMS parameters and writing a small set of test queries with EXPLAIN plans to profile joins and indices. Taipalus (2024) warns that “performance is usually tested in a way that does not reflect real-world use cases”. Taipalus also notes that many published tests “lack sufficient detail for reproducibility” which reinforces the need to document the environment and test steps before making optimisation decisions. My next actions are to capture the environment details, create and run the test queries, capture EXPLAIN output and only add indexes or denormalise if the tests show they help.
+
+### References
+
+Taipalus, T. (2024) ‘Database management system performance comparisons: A systematic literature review’, Journal of Systems & Software, 208, p. 111872. doi:10.1016/j.jss.2023.111872. (Accessed: 19/09/2025)
+
 - [Normalisation task summary of steps](/pdf/Normalisation_Task.pdf)
 - [Normalisation data](/pdf/Student_Data_Normalisation_Task_v1.xlsx)
 - [Data Build Activity](/images/data_build_activity.PNG)
