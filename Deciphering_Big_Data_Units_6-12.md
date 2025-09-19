@@ -20,7 +20,7 @@ Note: Lecturecast lesson 7 of 9 has a "Consent of the Class" which appears to be
 
 - [Normalisation task summary of steps](/pdf/Normalisation_Task.pdf)
 - [Normalisation data](/pdf/Student_Data_Normalisation_Task_v1.xlsx)
-- [Data Build Activity](/images/data_build_activity.png)
+- [Data Build Activity](/images/data_build_activity.PNG)
 
 ## Unit 8 - Compliance and Regulatory Framework for Managing Data
 
