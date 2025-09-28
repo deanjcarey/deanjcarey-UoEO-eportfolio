@@ -32,6 +32,21 @@ Taipalus, T. (2024) ‘Database management system performance comparisons: A sys
 
 ## Unit 8 - Compliance and Regulatory Framework for Managing Data
 
+This unit looked at compliance rules and the security responsibilities that come with handling personal and organisational data. We examined who is responsible for the data, the rights people have under GDPR and the standards that affect how databases are designed and run. Working through the DreamHome case study from the seminar notes and the previous database build activities showed that compliance should be included at every stage of the project - from gathering requirements to design testing and day-to-day operation.  
+
+The lecturecast pointed out that “compliance does not equal security” and that security needs good processes and a security-aware culture as well as technical measures. It also listed four practical goals - control access by process not job function, secure data at rest, protect cryptographic keys and tighten security across all the software components. These goals connect directly to database work such as deciding which fields to encrypt, how to keep keys separate from data and what user roles can read or write which tables. 
+
+Linking compliance to the normalisation and database build work brought out three main points. First, a clean, normalised schema makes it easier to find and protect sensitive data because each piece of information is stored in one clear place. Second, when you move from the logical design to the physical database you must also include the security steps - decide which columns need encryption which tables need restricted access and which audit fields to add for traceability. Third, testing should check privacy and security as well as functionality - for example test role-based access, confirm data is encrypted at rest and run a few sample data deletion or retention checks required by GDPR.  
+
+The recommended reading from McKinney (2022) supports these ideas and gives practical tips for pipelines and checks. Chapter 11 covers working with dates and times in pandas - things like timestamps resampling and rolling windows that are useful when handling time-stamped records.  Chapter 12 shows how to prepare data for models and how to separate transformation code from model code - useful when you build features for anomaly detection or forecasting.  Chapter 13 brings those steps together with examples of loading, cleaning, transforming, grouping and visualising data - these examples are handy templates when you build repeatable pipelines and simple visual checks for a security test plan, as an example.
+
+Taken together and expanding on Unit 7 activities, the Unit 8 materials and the McKinney chapters point to a clear approach - make the data correct first by normalising and documenting the schema then make it possible to monitor by adding time-aware steps, preparing the data for analysis and creating simple charts to spot problems. That way data stays auditable secure and useful as it moves from the database through the processing pipeline to analysis. 
+
+### References
+
+McKinney, W. (2022) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter. 3rd edn. Sebastopol, California: O'Reilly.
+
+
 
 ## Unit 9 - Database Management Systems (DBMS) and Models
 
