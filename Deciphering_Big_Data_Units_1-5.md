@@ -40,5 +40,4 @@ Due to holidays and work commitments, I had limited time to delve deeper into th
 
 - [Project Team Meeting Notes 23rd August 2025](/images/Project_Meeting_Notes_Aug_23.png)
 
-## Reflection on Units 1 to 5:
 
