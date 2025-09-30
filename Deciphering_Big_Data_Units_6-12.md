@@ -46,10 +46,15 @@ Taken together and expanding on Unit 7 activities, the Unit 8 materials and the 
 
 McKinney, W. (2022) Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter. 3rd edn. Sebastopol, California: O'Reilly.
 
-
-
 ## Unit 9 - Database Management Systems (DBMS) and Models
 
+This unit gave a clear overview of database systems - how they are designed why different models exist and what trade-offs each model brings. The lecturecast contrasted the old flat-file approach with the database approach and explained why a DBMS is useful for controlling redundancy keeping data consistent and allowing multiple applications to share the same data. I also reviewed transaction management and concurrency issues such as lost updates and dirty reads which show why databases need careful rules when many users read and write at the same time.
+
+Putting this into practice reinforced the theory. The normalisation work from Unit 7 - turning a flat student table into Students Courses and Enrolments - made it easier to see how logical design supports integrity and simpler application logic. Building the relational database from those normalised tables then showed the physical side - schema DDL keys and foreign keys and the kinds of constraints you must test for in real systems. These practical steps make the Unit 9 ideas concrete because they show how design choices affect maintenance query cost and concurrency behaviour.
+
+Unit 9 also covered different database models and usage contexts - relational SQL systems for strong consistency and structured data and non-relational systems (NoSQL, data lakes, Hadoop) for scale and flexible schemas. The key lesson is to pick the model that fits the problem - use relational systems where integrity and transactions matter and use non-relational or specialised stores when scale latency or schema flexibility are the top priorities.
+
+Overall I feel more confident to evaluate DB design choices - I can explain why we normalised the student dataset how that helps consistency and where we might later adjust the physical design e.g. indexing to meet performance or scale needs.
 
 ## Unit 10 - More on APIs (Application Programming Interfaces) for Data Parsing
 
