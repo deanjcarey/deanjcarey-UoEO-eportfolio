@@ -58,6 +58,7 @@ Overall I feel more confident to evaluate DB design choices - I can explain why 
 
 ## Unit 10 - More on APIs (Application Programming Interfaces) for Data Parsing
 
+This unit covered APIs and how systems exchange and parse data and the security and operational challenges of running APIs in production. I completed my contribution to the unit discussion which focused on GDPR/ICO security concerns - the summary post highlighted identifying and minimising personal data, carrying out risk assessments and DPIAs for higher-risk processing and documenting retention and provenance so subject requests can be answered. It also recommended applying engineering controls such as pseudonymisation, encryption and least-privilege access. The unit materials also covered practical API and adapter issues - including the need for clear API contracts, strong authentication, input validation, throttling and monitoring - and introduced tools such as IBM QRadar Pipe and DSM which help convert varied incoming messages into a consistent format and run early checks before data is moved. For data scientists this means going beyond model accuracy - carry out risk assessments, apply data minimisation and pseudonymisation where possible, build testing and monitoring into pipelines, document provenance and retention choices and work with engineers so encryption and access controls are in place before data analysis and reporting.
 
 ## Unit 11 - DBMS Transaction and Recovery
 
