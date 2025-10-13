@@ -66,4 +66,10 @@ This unit looked at how database systems keep data safe when things go wrong and
 
 ## Unit 12 - Future of Big Data Analytics
 
+This unit explored how machine learning is shaping the future of big data analysis and why governance and compliance must keep pace to protect people’s data. The Unit 12 lecturecast emphasised some steady best practices - start small, plan for scalability and learn from others rather than repeating known mistakes - and warned against assuming software alone will solve people or process gaps. The material also listed common pitfalls to avoid such as overpromising, treating projects as merely experimental and lacking the necessary business or analytical skills. These points underline that technical progress must be matched by clear planning and a realistic scope. 
+
+The emerging trends expanded on the types of data platforms and storage people are now using. It described distributed databases which spread data across multiple locations, object-oriented and image databases that handle richer data types, hypertext and hypermedia databases that let you link and store multimedia content and graph databases which model complex relationships directly rather than forcing everything into tables. These technologies show that future analytics will need to handle many kinds of data - text images video and connected records - so design and tooling must be chosen to match the data and the questions being asked. 
+
+Putting these ideas together, first, get the basics right - clean data using reproducible pipelines with clear provenance and a small set of high-value use cases that prove impact and guide scaling. Second, choose tools deliberately - if you need to analyse relationships consider graph stores, if you must index images consider an image-aware store - and pair that choice with governance, monitoring and clear operational plans so models remain reliable and compliant as they run. The unit reinforced that machine learning adds value only when the underlying data practices and controls are sound.
+
 
