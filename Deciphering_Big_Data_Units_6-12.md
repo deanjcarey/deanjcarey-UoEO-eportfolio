@@ -62,6 +62,7 @@ This unit covered APIs and how systems exchange and parse data and the security 
 
 ## Unit 11 - DBMS Transaction and Recovery
 
+This unit looked at how database systems keep data safe when things go wrong and how they make sure transactions either finish completely or do not happen at all. We examined transaction processing and the ACID properties - atomic, consistent, isolated and durable - and how each property protects the database during the transaction cycle. The material explained how scheduled transactions are interleaved in busy systems, why a transaction manager is needed to coordinate commits and rollbacks and how mechanisms such as write-ahead logging, checkpoints and recovery procedures restore a consistent state after system or media failures.
 
 ## Unit 12 - Future of Big Data Analytics
 
